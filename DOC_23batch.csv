@@ -1,0 +1,413 @@
+user_id,is_active,auth,display_name,email_id,joining_year
+2661,t,{},KRISHN VISHWAS KHER,cs19b23p000001@iith.ac.in,2019
+2744,t,{},Ashwath E,ai23btech11001@iith.ac.in,2023
+2745,t,{},B.S.P.KRISHNA CHAITANYA REDDY,ai23btech11002@iith.ac.in,2023
+2746,t,{},B U DEEKSHITH PATEL,ai23btech11003@iith.ac.in,2023
+2747,t,{},Donavalli Sai Durga Rishi,ai23btech11004@iith.ac.in,2023
+2748,t,{},Gabbireddy yasaswi reddy,ai23btech11005@iith.ac.in,2023
+2749,t,{},Gullapalli Madhava Asrith Murthy,ai23btech11007@iith.ac.in,2023
+2750,t,{},Pranav JVS,ai23btech11009@iith.ac.in,2023
+2751,t,{},JATAVATH AJAY,ai23btech11011@iith.ac.in,2023
+2752,t,{},Kodadalajagadeesh,ai23btech11012@iith.ac.in,2023
+2753,t,{},Kodavatikanti Bhuvan Chandra,ai23btech11013@iith.ac.in,2023
+2754,t,{},Mohammed Abdur Rehman,ai23btech11015@iith.ac.in,2023
+2755,t,{},PAKKI SAI KAUSHIK,ai23btech11017@iith.ac.in,2023
+2756,t,{},Dinesh Puli,ai23btech11019@iith.ac.in,2023
+2757,t,{},Rajapu Rishitha,ai23btech11020@iith.ac.in,2023
+2758,t,{},DHADHEECHI RAVVA,ai23btech11022@iith.ac.in,2023
+2760,t,{},Sampadram Kumar Jogadenu,ai23btech11025@iith.ac.in,2023
+2761,t,{},Shreeja Naidu Bandi,ai23btech11026@iith.ac.in,2023
+2762,t,{},Suchit Srivastava,ai23btech11027@iith.ac.in,2023
+2763,t,{},VENKATA SAILAJA SURA,ai23btech11029@iith.ac.in,2023
+2764,t,{},Varala Akshay kumar,ai23btech11030@iith.ac.in,2023
+2765,t,{},Vishank Singh,ai23btech11032@iith.ac.in,2023
+2766,t,{},Vuppula Hemanth Reddy,ai23btech11033@iith.ac.in,2023
+2767,t,{},Yoligi Harini,ai23btech11034@iith.ac.in,2023
+2768,t,{},Adhyant Vishwamurali Iyer,bd23bdes11001@iith.ac.in,2023
+2769,t,{},Arman Mahayan,bd23bdes11003@iith.ac.in,2023
+2770,t,{},Bhumi rajesh bagdiya,bd23bdes11005@iith.ac.in,2023
+2771,t,{},Enosh Andrade,bd23bdes11006@iith.ac.in,2023
+2772,t,{},Eshaan Nair,bd23bdes11007@iith.ac.in,2023
+2773,t,{},Kamya Rajeshwar,bd23bdes11009@iith.ac.in,2023
+2774,t,{},Kushagra Upadhyay,bd23bdes11011@iith.ac.in,2023
+2775,t,{},Mishal Sharaf Machingal,bd23bdes11013@iith.ac.in,2023
+2776,t,{},Nidhiya Susan Siby,bd23bdes11015@iith.ac.in,2023
+2777,t,{},Parvathy Sujith,bd23bdes11016@iith.ac.in,2023
+2778,t,{},Pranav Anand Kuchekar,bd23bdes11017@iith.ac.in,2023
+2779,t,{},Shreevel K J,bd23bdes11019@iith.ac.in,2023
+2780,t,{},Siya Shah,bd23bdes11021@iith.ac.in,2023
+2781,t,{},Smaron Boruah,bd23bdes11022@iith.ac.in,2023
+2783,t,{},Tanvi Vinod Gandhi,bd23bdes11024@iith.ac.in,2023
+2784,t,{},VINIT SHIMPI,bd23bdes11026@iith.ac.in,2023
+2785,t,{},Abhijit Kashyap,bm23btech11002@iith.ac.in,2023
+2786,t,{},Kishore J K,bm23btech11012@iith.ac.in,2023
+2787,t,{},ATHARVA KULKARNI,bm23btech11013@iith.ac.in,2023
+2788,t,{},Ojas Kurundkar,bm23btech11017@iith.ac.in,2023
+2789,t,{},Parth Dawar,bm23btech11018@iith.ac.in,2023
+2790,t,{},Rishab Ashwin Iyer,bm23btech11019@iith.ac.in,2023
+2791,t,{},Sazid ALi Rangrej,bm23btech11020@iith.ac.in,2023
+2792,t,{},ShivShreeram P,bm23btech11021@iith.ac.in,2023
+2794,t,{},Yashas Chhapola,bm23btech11025@iith.ac.in,2023
+2795,t,{},Akash Kumar,bt23btech11002@iith.ac.in,2023
+2796,t,{},ARYAN SATHISH RAJ,bt23btech11004@iith.ac.in,2023
+2797,t,{},Ira Khare,bt23btech11009@iith.ac.in,2023
+2798,t,{},Aditya Kankariya,bt23btech11011@iith.ac.in,2023
+2799,t,{},Lella Sai Keerthi,bt23btech11013@iith.ac.in,2023
+2800,t,{},RAJA KEERTHANA NARAMAMIDI,bt23btech11014@iith.ac.in,2023
+2801,t,{},NITHIN MANOJ R D,bt23btech11015@iith.ac.in,2023
+2802,t,{},Eswar Anand Chowhan Palthiya,bt23btech11017@iith.ac.in,2023
+2803,t,{},Anant Patil,bt23btech11018@iith.ac.in,2023
+2804,t,{},Poludasu Sri vastav,bt23btech11019@iith.ac.in,2023
+2805,t,{},Sinduri Vinod Babu M,bt23btech11022@iith.ac.in,2023
+2806,t,{},SUNNY KANT KUMAR,bt23btech11024@iith.ac.in,2023
+2807,t,{},A Srinithya,ce23btech11001@iith.ac.in,2023
+2808,t,{},Aditya Amodkar,ce23btech11004@iith.ac.in,2023
+2809,t,{},Annepu Ravi,ce23btech11008@iith.ac.in,2023
+2810,t,{},Archit Parag Sharma,ce23btech11009@iith.ac.in,2023
+2811,t,{},Bollikonda SaiMidhun,ce23btech11011@iith.ac.in,2023
+2812,t,{},BUKKE.BHAVYA SRUTHI,ce23btech11012@iith.ac.in,2023
+2813,t,{},C K ATHISH,ce23btech11014@iith.ac.in,2023
+2814,t,{},CHADA ANANYA REDDY,ce23btech11015@iith.ac.in,2023
+2815,t,{},Chitraksh Sinha,ce23btech11017@iith.ac.in,2023
+2816,t,{},Pranay Supreme,ce23btech11018@iith.ac.in,2023
+2817,t,{},Ethan Bobby Kurien,ce23btech11019@iith.ac.in,2023
+2818,t,{},GADDAM MANI SUCHISMITH REDDY,ce23btech11020@iith.ac.in,2023
+2819,t,{},GURRAM MOHITH VAMSI,ce23btech11022@iith.ac.in,2023
+2820,t,{},J SriSai Siddhu,ce23btech11024@iith.ac.in,2023
+2821,t,{},MANDALA VISHISTA REDDY,ce23btech11029@iith.ac.in,2023
+2822,t,{},Muraboyina sateeswar,ce23btech11031@iith.ac.in,2023
+2823,t,{},Ramu naik Nenavath,ce23btech11033@iith.ac.in,2023
+2824,t,{},Nending Pengo,ce23btech11034@iith.ac.in,2023
+2825,t,{},Patapanchala Chandra Sekhar,ce23btech11036@iith.ac.in,2023
+2826,t,{},Perumalla Prudhvi Raj,ce23btech11038@iith.ac.in,2023
+2827,t,{},Pratyush Prakash,ce23btech11042@iith.ac.in,2023
+2828,t,{},Pushpraj Singh Khichi,ce23btech11043@iith.ac.in,2023
+2829,t,{},Raghav Mangal,ce23btech11044@iith.ac.in,2023
+2830,t,{},Samhita Kandepu,ce23btech11046@iith.ac.in,2023
+2831,t,{},Shivam Banwarilal Jorwal,ce23btech11048@iith.ac.in,2023
+2832,t,{},T Sai Sankalp Reddy,ce23btech11051@iith.ac.in,2023
+2833,t,{},Thatipally Anudeep,ce23btech11054@iith.ac.in,2023
+2834,t,{},Sreenith Thirunagari,ce23btech11055@iith.ac.in,2023
+2835,t,{},Vaggu Adarsh,ce23btech11056@iith.ac.in,2023
+2836,t,{},Vaishnav Dhruv,ce23btech11057@iith.ac.in,2023
+2837,t,{},Vaishnavi arruru,ce23btech11058@iith.ac.in,2023
+2838,t,{},Vedant Gupta,ce23btech11059@iith.ac.in,2023
+2839,t,{},Y.Arun kumar,ce23btech11060@iith.ac.in,2023
+2840,t,{},Ashish KuNdu,ch23btech11008@iith.ac.in,2023
+2841,t,{},B H SHASHAANK,ch23btech11009@iith.ac.in,2023
+2842,t,{},BOBBY AHIRWAR,ch23btech11011@iith.ac.in,2023
+2843,t,{},Ceelam Rachana,ch23btech11012@iith.ac.in,2023
+2844,t,{},Chiranjeev Singh,ch23btech11013@iith.ac.in,2023
+2845,t,{},FIRDOSE ANJUM,ch23btech11017@iith.ac.in,2023
+2846,t,{},Ganta Varshith,ch23btech11018@iith.ac.in,2023
+2847,t,{},MAHIDHAR GUGULOTH,ch23btech11019@iith.ac.in,2023
+2848,t,{},Rohan Holikatti,ch23btech11021@iith.ac.in,2023
+2850,t,{},Mahathi Priya,ch23btech11024@iith.ac.in,2023
+2851,t,{},M S Soummya,ch23btech11028@iith.ac.in,2023
+2852,t,{},Naitik Patel,ch23btech11030@iith.ac.in,2023
+2853,t,{},Nakul Patole,ch23btech11031@iith.ac.in,2023
+2854,t,{},PRAJWAL RAMTEKE,ch23btech11032@iith.ac.in,2023
+2855,t,{},Raghav Bhatia,ch23btech11033@iith.ac.in,2023
+2856,t,{},Rahul Patil,ch23btech11034@iith.ac.in,2023
+2857,t,{},S HAEMANTH RUBAN,ch23btech11036@iith.ac.in,2023
+2858,t,{},Saket Kashyap,ch23btech11037@iith.ac.in,2023
+2859,t,{},Sanvi Nowal,ch23btech11039@iith.ac.in,2023
+2860,t,{},Saragadam Lokesh,ch23btech11040@iith.ac.in,2023
+2861,t,{},Tushar Kumar,ch23btech11043@iith.ac.in,2023
+2862,t,{},Vardan Gupta,ch23btech11044@iith.ac.in,2023
+2863,t,{},Yogesh kumar,ch23btech11045@iith.ac.in,2023
+2864,t,{},Aastha Aastha,co23btech11001@iith.ac.in,2023
+2865,t,{},ABINASH SAMARTHA,co23btech11002@iith.ac.in,2023
+2866,t,{},Anushree C,co23btech11003@iith.ac.in,2023
+2867,t,{},J D Gokul Krishna,co23btech11006@iith.ac.in,2023
+2868,t,{},Jatin Choudhary,co23btech11007@iith.ac.in,2023
+2869,t,{},KADALI TEJASWI,co23btech11008@iith.ac.in,2023
+2870,t,{},Koleti Yashwanth Chowdary,co23btech11009@iith.ac.in,2023
+2871,t,{},Kurella Pavan,co23btech11010@iith.ac.in,2023
+2872,t,{},Medipally Sanjit Reddy,co23btech11011@iith.ac.in,2023
+2873,t,{},Mohammed Adil Ali,co23btech11012@iith.ac.in,2023
+2874,t,{},MUGILAN T,co23btech11013@iith.ac.in,2023
+2875,t,{},Nikhil Rajpoot,co23btech11015@iith.ac.in,2023
+2876,t,{},Prakash shaw,co23btech11017@iith.ac.in,2023
+2877,t,{},Pulavarthi Harsha Vardhan,co23btech11018@iith.ac.in,2023
+2878,t,{},Ramidi Chinmayee,co23btech11019@iith.ac.in,2023
+2879,t,{},S.  AYUSHMAAN PATRO,co23btech11020@iith.ac.in,2023
+2880,t,{},SANKEERTH KULAKARNI,co23btech11021@iith.ac.in,2023
+2881,t,{},Somesh jaiswal,co23btech11022@iith.ac.in,2023
+2883,t,{},Vishnupraneeswar P,co23btech11024@iith.ac.in,2023
+2884,t,{},ADAMYA VERMA,cs23btech11001@iith.ac.in,2023
+2885,t,{},Anakala Sashikiran,cs23btech11004@iith.ac.in,2023
+2886,t,{},Anup Chavan,cs23btech11005@iith.ac.in,2023
+2887,t,{},PRAJWAL BHANSE,cs23btech11008@iith.ac.in,2023
+2888,t,{},Bhumin Hirpara,cs23btech11009@iith.ac.in,2023
+2889,t,{},Birudu Asish Mourya,cs23btech11010@iith.ac.in,2023
+2890,t,{},Bolla Lokesh Reddy,cs23btech11011@iith.ac.in,2023
+2891,t,{},Dhanavath Babu Mohan,cs23btech11014@iith.ac.in,2023
+2892,t,{},D jaya prakash,cs23btech11015@iith.ac.in,2023
+2893,t,{},Dheeraj Agarwal,cs23btech11016@iith.ac.in,2023
+2894,t,{},Divvela Rakesh,cs23btech11017@iith.ac.in,2023
+2895,t,{},Dondeti Samhitha,cs23btech11018@iith.ac.in,2023
+2896,t,{},Gopu Bala Anthony poojitha,cs23btech11020@iith.ac.in,2023
+2897,t,{},cs23btech11021@gmail.com,cs23btech11021@iith.ac.in,2023
+2898,t,{},Jami Rithvik,cs23btech11022@iith.ac.in,2023
+2900,t,{},KRAPA SANDEEP,cs23btech11027@iith.ac.in,2023
+2901,t,{},Krishna teja,cs23btech11028@iith.ac.in,2023
+2902,t,{},Shriiraz,cs23btech11029@iith.ac.in,2023
+2903,t,{},Lakshdeep Singh,cs23btech11031@iith.ac.in,2023
+2904,t,{},MADISHETTY ADITYANATH,cs23btech11032@iith.ac.in,2023
+2905,t,{},Mandapalli Rashmika,cs23btech11033@iith.ac.in,2023
+2906,t,{},Mangamuri venkata pranathi,cs23btech11034@iith.ac.in,2023
+2907,t,{},Mohd Shozab,cs23btech11036@iith.ac.in,2023
+2908,t,{},Morankar Kaushal Nandkumar,cs23btech11037@iith.ac.in,2023
+2909,t,{},PACHA HRUTHIK,cs23btech11043@iith.ac.in,2023
+2910,t,{},Paidala Vindhya,cs23btech11044@iith.ac.in,2023
+2911,t,{},PEDDINENI HARSHITH,cs23btech11045@iith.ac.in,2023
+2912,t,{},Ponguru Bhanu,cs23btech11046@iith.ac.in,2023
+2913,t,{},Ponnamanda Manoj kumar,cs23btech11047@iith.ac.in,2023
+2914,t,{},Pranjal Prajapati,cs23btech11048@iith.ac.in,2023
+2915,t,{},Ramavath Prabhu teja,cs23btech11050@iith.ac.in,2023
+2916,t,{},S Vandana Sahani,cs23btech11054@iith.ac.in,2023
+2917,t,{},SANA VENKATA SAI DEEPAK,cs23btech11055@iith.ac.in,2023
+2918,t,{},Stalin Babu Nakka,cs23btech11059@iith.ac.in,2023
+2919,t,{},Sujal Banshilal Meshram,cs23btech11060@iith.ac.in,2023
+2920,t,{},V S Susi Krishna,cs23btech11062@iith.ac.in,2023
+2921,t,{},VANAMALA AMAN PREETHAM,cs23btech11063@iith.ac.in,2023
+2922,t,{},Varukolu Vishal,cs23btech11064@iith.ac.in,2023
+2923,t,{},Yoligi Harshini,cs23btech11065@iith.ac.in,2023
+2924,t,{},ALLU LOHITH,ee23btech11004@iith.ac.in,2023
+2925,t,{},Ambati Krishna Kaustubh,ee23btech11005@iith.ac.in,2023
+2926,t,{},Ameen Aazam,ee23btech11006@iith.ac.in,2023
+2927,t,{},Aneesh Kadiyala,ee23btech11007@iith.ac.in,2023
+2928,t,{},Annapureddy Siva Meenakshi,ee23btech11008@iith.ac.in,2023
+2929,t,{},Aroshish Pradhan,ee23btech11009@iith.ac.in,2023
+2930,t,{},Bandawar Venkatesh Digambarrao,ee23btech11010@iith.ac.in,2023
+2931,t,{},BATCHU ISHITHA,ee23btech11011@iith.ac.in,2023
+2932,t,{},Chedurtipati Avyaaz,ee23btech11013@iith.ac.in,2023
+2933,t,{},Devarakonda Guna Vaishnavi,ee23btech11014@iith.ac.in,2023
+2934,t,{},Dure Aditi Rajesh,ee23btech11016@iith.ac.in,2023
+2935,t,{},Ganne Gopi Chandu,ee23btech11021@iith.ac.in,2023
+2936,t,{},G.Karthik Yadav,ee23btech11024@iith.ac.in,2023
+2937,t,{},H Anantha Krishnan,ee23btech11025@iith.ac.in,2023
+2938,t,{},Kanishk Devatwal,ee23btech11029@iith.ac.in,2023
+2939,t,{},Kaustubh Parag Khachane,ee23btech11032@iith.ac.in,2023
+2940,t,{},Prabhat Kukunuri,ee23btech11034@iith.ac.in,2023
+2941,t,{},Kunal Thorawade,ee23btech11035@iith.ac.in,2023
+2942,t,{},Madhani Rohith,ee23btech11038@iith.ac.in,2023
+2943,t,{},Mahendra Khinchi,ee23btech11039@iith.ac.in,2023
+2944,t,{},Manoj Kumar Ambatipudi,ee23btech11040@iith.ac.in,2023
+2945,t,{},Md Ayaan Ashraf,ee23btech11041@iith.ac.in,2023
+2946,t,{},Nimal Sreekumar,ee23btech11044@iith.ac.in,2023
+2947,t,{},Poluri. Hemanth,ee23btech11046@iith.ac.in,2023
+2948,t,{},Deepak Reddy,ee23btech11047@iith.ac.in,2023
+2949,t,{},P Venkata Chanakya,ee23btech11048@iith.ac.in,2023
+2950,t,{},Rajnil Malviya,ee23btech11051@iith.ac.in,2023
+2951,t,{},REVULAGADDA RAHUL,ee23btech11053@iith.ac.in,2023
+2952,t,{},Sai Krishna Shanigarapu,ee23btech11054@iith.ac.in,2023
+2953,t,{},Shakunaveti Sai Sri Ram Varun,ee23btech11057@iith.ac.in,2023
+2954,t,{},Tejavath Kushal,ee23btech11060@iith.ac.in,2023
+2955,t,{},Swathi Deepika Varasala,ee23btech11061@iith.ac.in,2023
+2956,t,{},VASANA MANAS,ee23btech11062@iith.ac.in,2023
+2957,t,{},YAGATI PREM SAGAR,ee23btech11065@iith.ac.in,2023
+2958,t,{},Yakkala Amarnath Karthik,ee23btech11066@iith.ac.in,2023
+2959,t,{},Abburi Tanusha,ee23btech11201@iith.ac.in,2023
+2960,t,{},Abhey Garg,ee23btech11202@iith.ac.in,2023
+2961,t,{},Adarsh A,ee23btech11203@iith.ac.in,2023
+2962,t,{},Chirag Garg,ee23btech11206@iith.ac.in,2023
+2963,t,{},Kailash.C,ee23btech11207@iith.ac.in,2023
+2964,t,{},Kumbha Manohar,ee23btech11208@iith.ac.in,2023
+2965,t,{},K S Ballvardhan,ee23btech11209@iith.ac.in,2023
+2966,t,{},MANOJ KUMAR,ee23btech11211@iith.ac.in,2023
+2967,t,{},Manugunta Meghana Sai,ee23btech11212@iith.ac.in,2023
+2968,t,{},Prashant Maurya,ee23btech11218@iith.ac.in,2023
+2969,t,{},Sujan Rada,ee23btech11219@iith.ac.in,2023
+2970,t,{},Sai Preetam Umesh Sasankota,ee23btech11221@iith.ac.in,2023
+2972,t,{},Sri Krishna Prabhas Yadla,ee23btech11224@iith.ac.in,2023
+2973,t,{},Arav P,ep23btech11003@iith.ac.in,2023
+2974,t,{},Avantika Dhananjay Patil,ep23btech11004@iith.ac.in,2023
+2975,t,{},Bonu Vidya Sagar,ep23btech11006@iith.ac.in,2023
+2976,t,{},Dommeti Dinesh Krishna,ep23btech11009@iith.ac.in,2023
+2977,t,{},GUNTURU MADHUKAR,ep23btech11011@iith.ac.in,2023
+2978,t,{},Jaideep Nirmal A J,ep23btech11013@iith.ac.in,2023
+2979,t,{},JATAVATH BHARATH,ep23btech11014@iith.ac.in,2023
+2980,t,{},Kajal Avanthika K.M.,ep23btech11015@iith.ac.in,2023
+2981,t,{},Naishadha Voruganti,ep23btech11017@iith.ac.in,2023
+2982,t,{},Namagiri Tejasri,ep23btech11018@iith.ac.in,2023
+2983,t,{},Raghav Sundararaman,ep23btech11020@iith.ac.in,2023
+2984,t,{},Ramagiri Jaidhar,ep23btech11021@iith.ac.in,2023
+2985,t,{},Ritik Parihar,ep23btech11022@iith.ac.in,2023
+2986,t,{},Nishanth S,ep23btech11024@iith.ac.in,2023
+2987,t,{},Sarang Anand Gund,ep23btech11025@iith.ac.in,2023
+2988,t,{},Sashim Suryawanshi,ep23btech11026@iith.ac.in,2023
+2989,t,{},Shounak Kamutala,ep23btech11027@iith.ac.in,2023
+2990,t,{},Shriram Pragash M,ep23btech11028@iith.ac.in,2023
+2991,t,{},Sri Devaki Meduri,ep23btech11030@iith.ac.in,2023
+2992,t,{},Tanay Shardul Gangan,ep23btech11031@iith.ac.in,2023
+2993,t,{},Vadla Gayatri Priya,ep23btech11032@iith.ac.in,2023
+2994,t,{},Vaibhav Kumar,ep23btech11033@iith.ac.in,2023
+2995,t,{},Y VENKAT RAGHAV,ep23btech11035@iith.ac.in,2023
+2996,t,{},AKSHAY S  HARITS,es23btech11002@iith.ac.in,2023
+2997,t,{},ALAGANURI SAI SURYA,es23btech11003@iith.ac.in,2023
+2998,t,{},Angala Vikas,es23btech11005@iith.ac.in,2023
+2999,t,{},Asvinth kumaresan,es23btech11009@iith.ac.in,2023
+3000,t,{},Atharva Lohare,es23btech11010@iith.ac.in,2023
+3001,t,{},Hemanth Gudala,es23btech11013@iith.ac.in,2023
+3002,t,{},Kowsith Gurubilli,es23btech11015@iith.ac.in,2023
+3003,t,{},Harshil Goyal,es23btech11016@iith.ac.in,2023
+3004,t,{},Harshit Daheriya,es23btech11017@iith.ac.in,2023
+3005,t,{},Jadhav Jyothi,es23btech11019@iith.ac.in,2023
+3006,t,{},Junjure Sai Sathwik Reddy,es23btech11020@iith.ac.in,2023
+3007,t,{},Katta SaiTeja Reddy,es23btech11021@iith.ac.in,2023
+3008,t,{},K.SAI YASHASWINI,es23btech11022@iith.ac.in,2023
+3009,t,{},LAKKOJU VIKRANTH RAM,es23btech11024@iith.ac.in,2023
+3010,t,{},Harshawardhan Sachin Matkar,es23btech11026@iith.ac.in,2023
+3011,t,{},MD ABDUL MUQEETH,es23btech11028@iith.ac.in,2023
+3012,t,{},mohit sagar,es23btech11029@iith.ac.in,2023
+3013,t,{},Rachamalla Preetham,es23btech11031@iith.ac.in,2023
+3014,t,{},RINKU KUMARI,es23btech11032@iith.ac.in,2023
+3015,t,{},Sahil Ahamed Shaheena,es23btech11035@iith.ac.in,2023
+3016,t,{},Ujjwal Kalra,es23btech11038@iith.ac.in,2023
+3017,t,{},Ulaganathan.K.B,es23btech11039@iith.ac.in,2023
+3018,t,{},Amireddy Chaitanya,ic23btech11002@iith.ac.in,2023
+3019,t,{},Bonda Mokshith kumar,ic23btech11006@iith.ac.in,2023
+3020,t,{},KAVIYADHARSHENI B,ic23btech11010@iith.ac.in,2023
+3021,t,{},Manav Rathi,ic23btech11013@iith.ac.in,2023
+3022,t,{},Shiva Sai Pagilla,ic23btech11014@iith.ac.in,2023
+3023,t,{},PRANAV AGGARWAL,ic23btech11015@iith.ac.in,2023
+3024,t,{},SANJAY M,ic23btech11018@iith.ac.in,2023
+3025,t,{},Souvik Paul,ic23btech11022@iith.ac.in,2023
+3027,t,{},Ankush Singh,ma23btech11002@iith.ac.in,2023
+3028,t,{},Ansh Bhatia,ma23btech11003@iith.ac.in,2023
+3029,t,{},Anurag Vishwanatham,ma23btech11004@iith.ac.in,2023
+3030,t,{},Aryan bodhe,ma23btech11005@iith.ac.in,2023
+3031,t,{},Chaitanya Nemmani,ma23btech11008@iith.ac.in,2023
+3032,t,{},Devesh Gautam,ma23btech11009@iith.ac.in,2023
+3033,t,{},Garvit Khedar,ma23btech11011@iith.ac.in,2023
+3034,t,{},Gundumalla Venkata Saipraneeth,ma23btech11012@iith.ac.in,2023
+3035,t,{},Kudumula Gopi Charan Reddy,ma23btech11015@iith.ac.in,2023
+3036,t,{},Muppidi Sai rajeshwara Siddarth Reddy,ma23btech11017@iith.ac.in,2023
+3037,t,{},Potla Naga Sai Prajith,ma23btech11019@iith.ac.in,2023
+3038,t,{},RAVIRALA ADITYA,ma23btech11020@iith.ac.in,2023
+3039,t,{},Sai Charan Ajjarapu,ma23btech11022@iith.ac.in,2023
+3041,t,{},Sivaneasan,ma23btech11024@iith.ac.in,2023
+3042,t,{},Vinaykarthik V,ma23btech11026@iith.ac.in,2023
+3043,t,{},Abhijith Raj,me23btech11002@iith.ac.in,2023
+3044,t,{},ADURTHY SANJAY RAJU,me23btech11006@iith.ac.in,2023
+3045,t,{},Ansh viradiya,me23btech11008@iith.ac.in,2023
+3046,t,{},Arnav Govindu,me23btech11009@iith.ac.in,2023
+3047,t,{},Aryan Gandhi,me23btech11010@iith.ac.in,2023
+3048,t,{},Bammidi. Abhilash,me23btech11012@iith.ac.in,2023
+3049,t,{},Chawla Yash Mukesh,me23btech11016@iith.ac.in,2023
+3050,t,{},DODDI RAMPRASAD,me23btech11018@iith.ac.in,2023
+3051,t,{},Garvit Maheshwari,me23btech11019@iith.ac.in,2023
+3052,t,{},Gude vinod chandra kumar,me23btech11021@iith.ac.in,2023
+3053,t,{},G. AVINASH CHOWDARY,me23btech11022@iith.ac.in,2023
+3055,t,{},Jatin Jain,me23btech11024@iith.ac.in,2023
+3056,t,{},Kakumanu Jaswanth,me23btech11027@iith.ac.in,2023
+3057,t,{},Hari Keerthan,me23btech11028@iith.ac.in,2023
+3058,t,{},Katarapu Abhishek,me23btech11029@iith.ac.in,2023
+3059,t,{},Om Khot,me23btech11030@iith.ac.in,2023
+3060,t,{},Mase Kaivalya Yogesh,me23btech11036@iith.ac.in,2023
+3061,t,{},Neel Prajapati,me23btech11040@iith.ac.in,2023
+3062,t,{},Nitin,me23btech11042@iith.ac.in,2023
+3063,t,{},Tarun Venkata Sai P,me23btech11047@iith.ac.in,2023
+3064,t,{},Pranav Anil Ingle,me23btech11048@iith.ac.in,2023
+3065,t,{},PRATYUS KUMAR PANDA,me23btech11050@iith.ac.in,2023
+3066,t,{},Pydimarri Venkata Naga Sindhu,me23btech11051@iith.ac.in,2023
+3067,t,{},Rayapati Naga Vamsi Krishna,me23btech11052@iith.ac.in,2023
+3068,t,{},Sandhineni Sruthi,me23btech11053@iith.ac.in,2023
+3069,t,{},Satyavada Sri HariniG,me23btech11054@iith.ac.in,2023
+3070,t,{},SAYYAD YUSUFF BASHA,me23btech11055@iith.ac.in,2023
+3071,t,{},Seela Divya Sree,me23btech11056@iith.ac.in,2023
+3072,t,{},THANUSHKA PATANI,me23btech11061@iith.ac.in,2023
+3073,t,{},Raunak Vernekar,me23btech11063@iith.ac.in,2023
+3074,t,{},Aashish Kumar Sahu,ms23btech11001@iith.ac.in,2023
+3075,t,{},ABHISHEK GODIYAL,ms23btech11002@iith.ac.in,2023
+3076,t,{},Aniket Maity,ms23btech11004@iith.ac.in,2023
+3077,t,{},Ankur Kalyan,ms23btech11005@iith.ac.in,2023
+3078,t,{},Anshu Rajendra Borkar,ms23btech11006@iith.ac.in,2023
+3079,t,{},Manoj Kumar,ms23btech11007@iith.ac.in,2023
+3080,t,{},BARMAVATH CHARAN TEJA,ms23btech11008@iith.ac.in,2023
+3081,t,{},Chavan Rushikesh,ms23btech11009@iith.ac.in,2023
+3082,t,{},Jai soni,ms23btech11011@iith.ac.in,2023
+3083,t,{},KARTIK GARG,ms23btech11012@iith.ac.in,2023
+3084,t,{},K.sai chandraneel,ms23btech11014@iith.ac.in,2023
+3085,t,{},Krishna Teja Kurapati,ms23btech11015@iith.ac.in,2023
+3086,t,{},Mahenderkar Karthikeya,ms23btech11017@iith.ac.in,2023
+3087,t,{},NALLA LOKESH SAI,ms23btech11018@iith.ac.in,2023
+3088,t,{},NAVIN JOSHI,ms23btech11019@iith.ac.in,2023
+3089,t,{},Peela Bhargavi,ms23btech11021@iith.ac.in,2023
+3091,t,{},Shikhar Kansal,ms23btech11024@iith.ac.in,2023
+3092,t,{},Shivam Rathaur,ms23btech11025@iith.ac.in,2023
+3093,t,{},Sidhartha Shankar Shatapathy,ms23btech11028@iith.ac.in,2023
+3094,t,{},Siva Lasya Parchuri,ms23btech11029@iith.ac.in,2023
+3095,t,{},Soham Mapara,ms23btech11031@iith.ac.in,2023
+3096,t,{},VARUNKRISHNA K,ms23btech11033@iith.ac.in,2023
+3097,t,{},Velvadapu Naga Venkata Ganeswar,ms23btech11034@iith.ac.in,2023
+3098,t,{},Yashovardhan Mukerji,ms23btech11035@iith.ac.in,2023
+3101,t,{},Ashley Ann Benoy,ee23btech11204@iith.ac.in,2023
+3102,t,{},LAVUDI SAI,ch23btech11026@iith.ac.in,2023
+3103,t,{},Ojas Shrikant Madghe,me23btech11044@iith.ac.in,2023
+3104,t,{},Varad N. Mallurwar,me23btech11034@iith.ac.in,2023
+3105,t,{},Rishabh Duggal,ce23btech11045@iith.ac.in,2023
+3106,t,{},Gaurav Srinivas,me23btech11020@iith.ac.in,2023
+3107,t,{},Shlloak Mandharr Thombaray,bd23bdes11018@iith.ac.in,2023
+3108,t,{},Ashuthosh Shivaraj,me23btech11011@iith.ac.in,2023
+3109,t,{},Mohd Hasan,bd23bdes11014@iith.ac.in,2023
+3110,t,{},NISTALA SAI AKHIL,ce23btech11035@iith.ac.in,2023
+3111,t,{},Soumyajit Maji,me23btech11059@iith.ac.in,2023
+3112,t,{},LAKSHMI PRASANNA SRIRAM APPASANI,es23btech11007@iith.ac.in,2023
+3113,t,{},Kantayapalam shravya,ee23btech11030@iith.ac.in,2023
+3114,t,{},DISHA DAGA,ch23btech11015@iith.ac.in,2023
+3115,t,{},Pitla Krishna vardhan,ce23btech11039@iith.ac.in,2023
+3116,t,{},NISHI BARANWAL,cs23btech11041@iith.ac.in,2023
+3118,t,{},Azeem Kader Imthiaz,bd23bdes11004@iith.ac.in,2023
+3119,t,{},N.Rampanikar Reddy,cs23btech11040@iith.ac.in,2023
+3120,t,{},Nevil C Prince,ep23btech11019@iith.ac.in,2023
+3121,t,{},Srinidhi Priya Chandrabotla,ce23btech11050@iith.ac.in,2023
+3122,t,{},Killana jaswanth,ee23btech11033@iith.ac.in,2023
+3123,t,{},Rishikesh Kasireddy,es23btech11033@iith.ac.in,2023
+3124,t,{},Gaurav Lamba,ic23btech11007@iith.ac.in,2023
+3125,t,{},Om Godse,me23btech11045@iith.ac.in,2023
+3126,t,{},Lavudiya hasini,ch23btech11027@iith.ac.in,2023
+3127,t,{},Bhukya Neeraj Nayak,me23btech11015@iith.ac.in,2023
+3128,t,{},NUNSAVATH KALYAN,es23btech11030@iith.ac.in,2023
+3129,t,{},Busa shravya,ce23btech11013@iith.ac.in,2023
+3130,t,{},MEKALA DHEEKSHITHA,ce23btech11030@iith.ac.in,2023
+3131,t,{},Ajudiya Sneh,ic23btech11001@iith.ac.in,2023
+3132,t,{},A Sai sandeep,me23btech11007@iith.ac.in,2023
+3133,t,{},Kumar Arpit,ic23btech11011@iith.ac.in,2023
+3134,t,{},Dasari abhinay shashanth,me23btech11017@iith.ac.in,2023
+3135,t,{},SHUBHAM DADHICH,ms23btech11026@iith.ac.in,2023
+3136,t,{},K.Sai Charan,bm23btech11014@iith.ac.in,2023
+3138,t,{},Pranay Reddy Ragi,me23btech11049@iith.ac.in,2023
+3139,t,{},Bhukya Jashwanth Naik,me23btech11014@iith.ac.in,2023
+3140,t,{},Nehete Bhuvanesh Sunil,ee23btech11043@iith.ac.in,2023
+3141,t,{},M SAI MANJUNATH,cs23btech11035@iith.ac.in,2023
+3142,t,{},RONGALI MOHIT NAIDU,cs23btech11051@iith.ac.in,2023
+3143,t,{},Girijesh Dasari,bd23bdes11008@iith.ac.in,2023
+3144,t,{},Vikas Addakula,bd23bdes11025@iith.ac.in,2023
+3145,t,{},Thejaswini T,ic23btech11024@iith.ac.in,2023
+3146,t,{},SAI RISHI KASTURI,cs23btech11024@iith.ac.in,2023
+3147,t,{},Lovenish,me23btech11033@iith.ac.in,2023
+3148,t,{},Jitendra Rar,ce23btech11025@iith.ac.in,2023
+3149,t,{},Kurapati Venkata Dheeraj,ch23btech11025@iith.ac.in,2023
+3150,t,{},KODAMARTHI SATHWIK,cs23btech11025@iith.ac.in,2023
+3151,t,{},Aryan Mehta,ai23btech11014@iith.ac.in,2023
+3152,t,{},Karthik Gnana Ezhil S,ep23btech11016@iith.ac.in,2023
+3153,t,{},B.Abhivardhan Nayak,bm23btech11005@iith.ac.in,2023
+3154,t,{},Anvesh Chandra B,ic23btech11005@iith.ac.in,2023
+3155,t,{},J Devisree Chandana,ai23btech11008@iith.ac.in,2023
+3156,t,{},ic23btech11016@iith.ac.in,ic23btech11016@iith.ac.in,2023
+3157,t,{},Aayush Gupta,ce23btech11002@iith.ac.in,2023
+3158,t,{},Manne Rithvik,es23btech11025@iith.ac.in,2023
+3159,t,{},Boddu Hadassah,ep23btech11005@iith.ac.in,2023
+3160,t,{},Sasa Mardi,ee23btech11222@iith.ac.in,2023
+3161,t,{},K Rahul,ee23btech11027@iith.ac.in,2023
+3162,t,{},Aditya Srivastava,me23btech11005@iith.ac.in,2023
+3163,t,{},Anjani Sarawagi,ce23btech11007@iith.ac.in,2023
+3167,t,{},Harsha Vardhan Kumar Paramata,ee23btech11214@iith.ac.in,2023
+3168,t,{},Aditya Gupta,me23btech11004@iith.ac.in,2023
+3171,t,{},Sanjay Meena,ch23btech11038@iith.ac.in,2023
+3172,t,{}, Aadi Sinha,me23btech11001@iith.ac.in,2023
+3173,t,{},Boopesh D,ep23btech11007@iith.ac.in,2023
+3174,t,{},Kandari Shree Varshith,ma23btech11014@iith.ac.in,2023
